@@ -1,0 +1,1 @@
+# kaggle-den_veri_analizi
